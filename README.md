@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Dylan 👋
+
+I'm a Fullstack Developer at RBC working on the backend services powering the payments portal for RBC’s next generation online business banking platform. 
 
 <!--
 **dhavelock/dhavelock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
