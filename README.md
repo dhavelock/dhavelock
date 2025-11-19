@@ -1,6 +1,6 @@
 ### Hi there, I'm Dylan 👋
 
-I'm a Solutions Engineer at [Snyk](https://snyk.io), check out what I'm working on there: [github.com/dylansnyk](https://github.com/dylansnyk)
+I'm a Solutions Engineer at [Chainguard](https://chainguard.dev), check out what I'm working on there: [github.com/dylan-chainguard](https://github.com/dylan-chainguard)
 
 <!--
 **dhavelock/dhavelock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
